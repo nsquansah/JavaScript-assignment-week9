@@ -16,7 +16,7 @@ slice(): Creates a new array containing a portion of the original array.
 forEach(): Executes a function for each element in an array.
 
 ## Lesson 2: JavaScript functions
-reference: https://www.w3schools.com/js/js_functions.asp
+reference: https://www.w3schools.com/js/js_functions.asp , https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions, https://javascript.info/function-basics
 
 Functions are blocks of code that can be called to perform a specific task. They can be used to reduce repetition in code, and to modularize complex programs into simpler, easier-to-understand components.
 
